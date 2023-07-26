@@ -11,6 +11,6 @@ I am Gaurav Kumar and I'm a **AWS Solution Architect**, **Cloud Native Developer
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=gauravkumar-aws&show_icons=true&" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=gauravkumar-aws&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=gk110&show_icons=true&" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=gk110&hide_border=true" width = 400>
 </p>
